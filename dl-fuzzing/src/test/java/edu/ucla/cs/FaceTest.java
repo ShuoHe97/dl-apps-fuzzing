@@ -80,6 +80,10 @@ public class FaceTest {
         BoundingBox b1 = faceOneAnnotations[0].getBoundingBox();
         BoundingBox b2 = faceTwoAnnotations[0].getBoundingBox();
 
+System.out.println(faceOneAnnotations[0].getConfidence());
+System.out.println(faceTwoAnnotations[0].getConfidence());
+
+
         BufferedImage croppedFaceOne = faceOne.getSubimage(b1.getX(), b1.getY(), b1.getW(), b1.getH());
         BufferedImage croppedFaceTwo = faceTwo.getSubimage(b2.getX(), b2.getY(), b2.getW(), b2.getH());
 
