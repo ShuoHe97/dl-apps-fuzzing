@@ -1,8 +1,5 @@
-edu/ucla/cs/FaceTest.IFNE 74
-edu/ucla/cs/FaceTest.IFGE 107
-edu/ucla/cs/FaceTest.IF_ICMPGE 101
-edu/ucla/cs/FaceTest.IFNONNULL 24
-edu/ucla/cs/FaceTest.IFGE 122
-edu/ucla/cs/FaceTest.IFEQ 74
-edu/ucla/cs/FaceTest.IF_ICMPGE 117
+edu/ucla/cs/Util.IF_ICMPGE 16
+edu/ucla/cs/Util.IF_ICMPGE 17
+edu/ucla/cs/Util.IF_ICMPGE 24
+edu/ucla/cs/Util.IF_ICMPGE 25
 
