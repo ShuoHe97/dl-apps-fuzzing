@@ -1,90 +1,116 @@
 Saving new input (at run 1): input #0 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000000 random +count +cov +valid
-Saving new input (at run 2): input #1 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000001 random +count +cov +valid
-Saving new input (at run 3): input #2 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000002 random +count +cov +valid
-Saving new input (at run 4): input #3 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000003 random +count +cov +valid
-Saving new input (at run 5): input #4 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000004 random +count +cov +valid
-Saving new input (at run 6): input #5 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000005 random +count
-Saving new input (at run 7): input #6 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000006 random +count
-Saving new input (at run 8): input #7 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000007 random +count +cov +valid
-Saving new input (at run 9): input #8 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000008 random +count
-Saving new input (at run 10): input #9 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000009 random +count
-Saving new input (at run 11): input #10 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000010 random +count +cov +valid
-Saving new input (at run 12): input #11 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000011 random +count
-Saving new input (at run 13): input #12 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000012 random +count
-Saving new input (at run 14): input #13 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000013 random +count
-Saving new input (at run 15): input #14 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000014 random +count
-Saving new input (at run 16): input #15 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000015 random +count
-Saving new input (at run 17): input #16 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000016 random +count +cov +valid
-Saving new input (at run 18): input #17 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000017 random +count
-Saving new input (at run 20): input #18 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000018 random +count +cov +valid
-Saving new input (at run 23): input #19 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000019 random +count
-Saving new input (at run 24): input #20 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000020 random +count
-Saving new input (at run 25): input #21 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000021 random +count
-Saving new input (at run 26): input #22 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000022 random +count
-Saving new input (at run 27): input #23 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000023 random +count
-Saving new input (at run 30): input #24 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000024 random +count
-Saving new input (at run 31): input #25 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000025 random +count +cov +valid
-Saving new input (at run 33): input #26 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000026 random +count
-Saving new input (at run 36): input #27 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000027 random +count
-Saving new input (at run 39): input #28 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000028 random +count
-Saving new input (at run 41): input #29 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000029 random +count
-Saving new input (at run 42): input #30 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000030 random +count
-Saving new input (at run 44): input #31 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000031 random +count
-Saving new input (at run 47): input #32 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000032 random +count
-Saving new input (at run 48): input #33 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000033 random +count
-Saving new input (at run 49): input #34 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000034 random +count
-Saving new input (at run 51): input #35 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000035 random +count
-Saving new input (at run 52): input #36 of size 8294408; reason = +count +cov +valid
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000036 random +count +cov +valid
-Saving new input (at run 55): input #37 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000037 random +count
-Saving new input (at run 57): input #38 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000038 random +count
-Saving new input (at run 61): input #39 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000039 random +count
-Saving new input (at run 64): input #40 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000040 random +count
-Saving new input (at run 70): input #41 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000041 random +count
-Saving new input (at run 74): input #42 of size 8294408; reason = +count
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000042 random +count
-Found crash: class java.lang.OutOfMemoryError - Cannot allocate new BytePointer(262144): totalBytes = 288, physicalBytes = 3937M
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/failures/id_000000 random +crash
-Found crash: class java.lang.OutOfMemoryError - Cannot allocate new BytePointer(6): totalBytes = 288, physicalBytes = 3940M
-Saved - /home/shuohe97/Desktop/capstone/Feb23/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/failures/id_000001 random +crash
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000000 random +count +cov +valid
+Saving new input (at run 2): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000001 random +count +cov +valid
+Saving new input (at run 3): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000002 random +count +cov +valid
+Saving new input (at run 4): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000003 random +count +cov +valid
+Saving new input (at run 5): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000004 random +count +cov +valid
+Saving new input (at run 6): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000005 random +count
+Saving new input (at run 7): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000006 random +count
+Saving new input (at run 8): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000007 random +count +cov +valid
+Saving new input (at run 9): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000008 random +count
+Saving new input (at run 10): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000009 random +count
+Saving new input (at run 11): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000010 random +count +cov +valid
+Saving new input (at run 12): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000011 random +count
+Saving new input (at run 13): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000012 random +count
+Saving new input (at run 14): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000013 random +count
+Saving new input (at run 15): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000014 random +count
+Saving new input (at run 16): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000015 random +count
+Saving new input (at run 17): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000016 random +count +cov +valid
+Saving new input (at run 18): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000017 random +count
+Saving new input (at run 20): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000018 random +count +cov +valid
+Saving new input (at run 23): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000019 random +count
+Saving new input (at run 24): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000020 random +count
+Saving new input (at run 25): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000021 random +count
+Saving new input (at run 26): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000022 random +count
+Saving new input (at run 27): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000023 random +count
+Saving new input (at run 30): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000024 random +count
+Saving new input (at run 31): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000025 random +count +cov +valid
+Saving new input (at run 33): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000026 random +count
+Saving new input (at run 36): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000027 random +count
+Saving new input (at run 39): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000028 random +count
+Saving new input (at run 41): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000029 random +count
+Saving new input (at run 42): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000030 random +count
+Saving new input (at run 44): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000031 random +count
+Saving new input (at run 47): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000032 random +count
+Saving new input (at run 48): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000033 random +count
+Saving new input (at run 49): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000034 random +count
+Saving new input (at run 51): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000035 random +count
+Saving new input (at run 52): input #0 of size 8294408; reason = +count +cov +valid
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000036 random +count +cov +valid
+Saving new input (at run 55): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000037 random +count
+Saving new input (at run 57): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000038 random +count
+Saving new input (at run 61): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000039 random +count
+Saving new input (at run 64): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000040 random +count
+Saving new input (at run 70): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000041 random +count
+Saving new input (at run 74): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000042 random +count
+Saving new input (at run 75): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000043 random +count
+Saving new input (at run 76): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000044 random +count
+Saving new input (at run 79): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000045 random +count
+Saving new input (at run 82): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000046 random +count
+Saving new input (at run 91): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000047 random +count
+Saving new input (at run 98): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000048 random +count
+Saving new input (at run 106): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000049 random +count
+Saving new input (at run 108): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000050 random +count
+Saving new input (at run 119): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000051 random +count
+Saving new input (at run 120): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000052 random +count
+Saving new input (at run 124): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000053 random +count
+Saving new input (at run 131): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000054 random +count
+Saving new input (at run 144): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000055 random +count
+Saving new input (at run 160): input #0 of size 8294408; reason = +count
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/corpus/id_000056 random +count
+Found crash: class java.lang.OutOfMemoryError - Cannot allocate new BytePointer(6): totalBytes = 288, physicalBytes = 3937M
+Saved - /home/shuohe97/Desktop/capstone/Feb24/dl-apps-fuzzing/dl-fuzzing/results/crop/ORIG/failures/id_000000 random +crash

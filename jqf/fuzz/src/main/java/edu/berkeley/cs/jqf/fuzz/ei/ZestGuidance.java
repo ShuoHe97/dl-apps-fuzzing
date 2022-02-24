@@ -810,6 +810,7 @@ public class ZestGuidance implements Guidance {
                 displayStats();
             }
 
+
             // Save input unconditionally if such a setting is enabled
             if (LOG_ALL_INPUTS && (SAVE_ONLY_VALID ? valid : true)) {
                 File logDirectory = new File(allInputsDirectory, result.toString().toLowerCase());
@@ -948,6 +949,8 @@ public class ZestGuidance implements Guidance {
         }
 
         // Second, save to queue
+
+/*
         savedInputs.add(currentInput);
 
         // Third, store basic book-keeping data
@@ -973,7 +976,7 @@ public class ZestGuidance implements Guidance {
             // We are now responsible
             responsibleInputs.put(b, currentInput);
         }
-
+*/
     }
 
     @Override
