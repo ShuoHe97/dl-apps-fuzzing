@@ -4,9 +4,10 @@ This project is intended to fuzz java deep learning applications to test the eff
 This repo is a reorganization with necessary bug fixes of the following three repos:
 1. [dl-fuzzing](https://github.com/usama54321/dl-fuzzing): this is the test driver.
 2. [dl-java-apps](https://github.com/usama54321/dl-java-apps): this repo consists of three borrowed java deep learning applications. At the moment only the first two is functioning, the third one has a bug:
-  1. [FaceDetection](https://github.com/tzolov/mtcnn-java)
-  2. [SmartCropper](https://github.com/pqpo/SmartCropper)
-  3. [PoseEstimation](https://fritz.mycloudrepo.io/public/repositories/android/ai/fritz/)
+    1. [FaceDetection](https://github.com/tzolov/mtcnn-java)
+    2. [SmartCropper](https://github.com/pqpo/SmartCropper)
+    3. [PoseEstimation](https://fritz.mycloudrepo.io/public/repositories/android/ai/fritz/)
+
 3. [jqf](https://github.com/usama54321/jqf): this is a modified jqf that feeds image data directly to the test applications.
 
 
