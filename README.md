@@ -13,15 +13,20 @@ This repo is a reorganization with necessary bug fixes of the following three re
 3. [jqf](https://github.com/usama54321/jqf): this is a modified jqf that feeds image data directly to the test applications.
 
 
-Prereq   jdk    maven
+## How to build:
+First, make sure the prerequisites are met:
+1. Java >= 9. Tested with openjdk 11.0.13
+2. Maven
 
-# How to build:
-Simply run this command. 
+Then clone and build:
 ```
+git clone https://github.com/ShuoHe97/dl-apps-fuzzing.git
+cd dl-appps-fuzzing
 bash build.sh
 ```
+Tested on Ubuntu 18.04.
 
-# How to run tests:
+## How to run tests:
 
 To get the overall test coverage, run the following command:
 ```
