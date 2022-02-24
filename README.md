@@ -1,7 +1,7 @@
 # dl-apps-fuzzing
 This project is intended to fuzz java deep learning applications to test the effectiveness of transforming datasets on increasing branch coverage. It utilizes a modified [JQF](https://github.com/rohanpadhye/JQF) framework to feed image data to the java applications. At the moment, there is basically only a pseudo-fuzzer that directly feeds the images dataset to the test applications, without performing any mutation on-the-fly. JQF is used mainly to record branch coverage data. Different kinds of transformations are performed off-line on the origional dataset before they are feeded to the application to observe whether there is an increase on the branch coverage for the testings. 
 
-This repo is a reorganization with necessary bug fixes of the following three repos:
+**This repo is a reorganization with necessary bug fixes of the following three repos:**
 
 1. [dl-fuzzing](https://github.com/usama54321/dl-fuzzing): this is the test driver.
 
