@@ -12,9 +12,12 @@ This project is intended to fuzz java deep learning applications to test the eff
 
 3. [jqf](https://github.com/usama54321/jqf): this is a modified jqf that feeds image data directly to the test applications.
 
-
-
-
+ 
+  
+   
+    
+     
+     
 ## How to build:
 **Prerequisites**:
 1. Java >= 9. **Tested with openjdk 11.0.13**
