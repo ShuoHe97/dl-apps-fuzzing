@@ -14,11 +14,11 @@ This repo is a reorganization with necessary bug fixes of the following three re
 
 
 ## How to build:
-First, make sure the prerequisites are met:
+**First, make sure the prerequisites are met:**
 1. Java >= 9. Tested with openjdk 11.0.13
 2. Maven
 
-Then clone and build:
+**Then clone and build:**
 ```
 git clone https://github.com/ShuoHe97/dl-apps-fuzzing.git
 cd dl-appps-fuzzing
