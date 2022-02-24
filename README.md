@@ -12,12 +12,6 @@ This project is intended to fuzz java deep learning applications to test the eff
 
 3. [jqf](https://github.com/usama54321/jqf): this is a modified jqf that feeds image data directly to the test applications.
 
- 
-  
-   
-    
-     
-     
 ## How to build:
 **Prerequisites**:
 1. Java >= 9. **Tested with openjdk 11.0.13**
@@ -32,9 +26,6 @@ bash build.sh
 Tested on Ubuntu 18.04.
 
 
-
-
-
 ## How to run tests:
 
 To get the overall test coverage, run the following command:
@@ -47,3 +38,6 @@ To get the post-inference test coverage, run the following command:
 ```
 bash helpers/repro.sh ./results/face/ORIG/corpus tf ./results/face/ORIG/repro testFaceDetection edu.ucla.cs.FaceTest
 ```
+
+## Author
+[Usama Hameed}(https://github.com/usama54321), [Shuo He](https://github.com/ShuoHe97)
