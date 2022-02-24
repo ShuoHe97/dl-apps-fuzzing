@@ -14,11 +14,11 @@ This project is intended to fuzz java deep learning applications to test the eff
 
 
 ## How to build:
-First, make sure the prerequisites are met:
-1. Java >= 9. Tested with openjdk 11.0.13
-2. Maven
+**Prerequisites**:
+1. Java >= 9. **Tested with openjdk 11.0.13**
+2. **Maven**
 
-**Then clone and build:**
+Make sure the **prerequisites** are met, then use the following command to clone and build:
 ```
 git clone https://github.com/ShuoHe97/dl-apps-fuzzing.git
 cd dl-appps-fuzzing
