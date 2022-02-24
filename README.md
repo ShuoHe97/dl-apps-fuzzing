@@ -14,9 +14,9 @@ This project is intended to fuzz java deep learning applications to test the eff
 
 
 ## How to build:
-**First, make sure the prerequisites are met:**
-    1. Java >= 9. Tested with openjdk 11.0.13
-    2. Maven
+First, make sure the prerequisites are met:
+1. Java >= 9. Tested with openjdk 11.0.13
+2. Maven
 
 **Then clone and build:**
 ```
