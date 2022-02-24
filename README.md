@@ -1,5 +1,5 @@
 # dl-apps-fuzzing
-
+Prereq   jdk    maven
 
 # How to build:
 Simply run this command. 
