@@ -27,7 +27,7 @@ Tested on Ubuntu 18.04.
 
 
 ## Explaining Test Scripts (Example run in the next section):
-The test driver is inside the dl-fuzzing directory:
+The test driver is inside the /dl-fuzzing directory:
 ``` 
 cd dl-fuzzing
 ```
@@ -65,7 +65,7 @@ Where
 **method** is the test method we want to re-run. 
 
 ### Example Run
-The test driver is inside the dl-fuzzing directory. You can use any image data. For now lets use some data [here](https://github.com/ShuoHe97/data):
+The test driver is inside the /dl-fuzzing directory. You can use any image data. For now lets use some data [here](https://github.com/ShuoHe97/data):
 ```
 cd dl-fuzzing
 git clone https://github.com/ShuoHe97/data.git
