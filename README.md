@@ -67,7 +67,7 @@ Where
 
 **method** is the test method we want to re-run. 
 
-### Example Run
+## Example Run
 
 The test driver is inside the /dl-fuzzing directory. You can use any image data. For now lets use some data [here](https://github.com/ShuoHe97/data):
 ```
