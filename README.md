@@ -26,19 +26,17 @@ bash build.sh
 Tested on Ubuntu 18.04.
 
 
-## How to run tests:
-The test driver is inside the dl-fuzzing directory. You can use any image data. For now lets use some data [here](https://github.com/ShuoHe97/data):
-```
+## Explaining Test Scripts (Example run in the next section):
+The test driver is inside the dl-fuzzing directory:
+``` 
 cd dl-fuzzing
-git clone https://github.com/ShuoHe97/data.git
-unzip data/vggface2/ORIG.zip -d data/vggface2/ORIG
 ```
 
 To run the test and obtain the overall branch coverage, use this command:
 ```
 bash helpers/fuzz.sh \$engine \$method \$in \$out \$cacheDir \$testclass
 ```
-Where 
+
 **engine**: type "tf" for our customized guidance.
 
 **method** is the test method we want to run. 
@@ -52,27 +50,43 @@ Where
 **testclass** is the class of testcase
 
 
-### Example 
+**After running the first test script**, to get the post-inference test coverage, use the following command:
+```
+bash helpers/repro.sh \$input \$engine \$out \$method
+```
+Where
+
+**input** is the /corpus directory inside the previous test results directory
+
+**engine**: type "tf" for our customized guidance.
+
+**out** is the output directory
+
+**method** is the test method we want to re-run. 
+
+### Example Run
+The test driver is inside the dl-fuzzing directory. You can use any image data. For now lets use some data [here](https://github.com/ShuoHe97/data):
+```
+cd dl-fuzzing
+git clone https://github.com/ShuoHe97/data.git
+unzip data/vggface2/ORIG.zip -d data/vggface2/ORIG
+```
+
 now that we have some images in data/vggface2/ORIG. We can first test the FaceDetection app to see how much branch coverage we can get from these data:
 ```
 bash helpers/fuzz.sh tf testFaceDetection ./data/vggface2/ORIG ./face_test_results $(pwd)/results/instrumentation edu.ucla.cs.FaceTest
 ```
 Results will be stored in the ./face_test_results directory. ./face_test_results/corpus contains the recorded input that leads to a coverage increase. They are used to reproduce the test to obtain post-inference coverage.
 
-To get the post-inference test coverage, use the following command:
-```
-bash helpers/repro.sh \$input \$engine \$out \$method
-```
-Where
-**input** is ./face_test_results/corpus
-**engine**: type "tf" for our customized guidance.
-**out** is the output directory
-**method** is the test method we want to re-run. 
 
-**For example**, after we run the first testing script and obtained ./face_test_results/corpus, we can re-run the test to also get post-inference coverage using this command:
+
+After we run the first testing script and obtained ./face_test_results/corpus, we can re-run the test to also get post-inference coverage using this command:
 ```
-bash helpers/repro.sh ./results/face/ORIG/corpus tf ./results/face/ORIG/repro testFaceDetection edu.ucla.cs.FaceTest
+bash helpers/repro.sh ./results/face/ORIG/corpus tf ./face_test_results/repro testFaceDetection edu.ucla.cs.FaceTest
 ```
+This will produce results containing post-inference coverage info, stored in ./face_test_results/repro
+
+
 
 ## Author
 [Usama Hameed}(https://github.com/usama54321), [Shuo He](https://github.com/ShuoHe97)
