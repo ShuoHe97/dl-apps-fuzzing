@@ -28,44 +28,7 @@ bash build.sh
 Tested on Ubuntu 18.04.
 
 
-## Explaining Test Scripts (Example run in the next section):
 
-The test driver is inside the /dl-fuzzing directory:
-``` 
-cd dl-fuzzing
-```
-
-To run the test and obtain the overall branch coverage, use this command:
-```
-bash helpers/fuzz.sh \$engine \$method \$in \$out \$cacheDir \$testclass
-```
-
-**engine**: type "tf" for our customized guidance.
-
-**method** is the test method we want to run. 
-
-**in** is the directory that consists of test input images.
-
-**out** is the directory that we want the results to be stored
-
-**cashDir** is the directory to store temp files
-
-**testclass** is the class of testcase
-
-
-**After running the first test script**, to get the post-inference test coverage, use the following command:
-```
-bash helpers/repro.sh \$input \$engine \$out \$method
-```
-Where
-
-**input** is the /corpus directory inside the previous test results directory
-
-**engine**: type "tf" for our customized guidance.
-
-**out** is the output directory
-
-**method** is the test method we want to re-run. 
 
 ## Example Run
 
