@@ -22,7 +22,7 @@ This project is intended to fuzz java deep learning applications to test the eff
 Make sure the **prerequisites** are met, then use the following command to clone and build:
 ```
 git clone https://github.com/ShuoHe97/dl-apps-fuzzing.git
-cd dl-appps-fuzzing
+cd dl-apps-fuzzing
 bash build.sh
 ```
 Tested on Ubuntu 18.04.
