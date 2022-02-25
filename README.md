@@ -46,7 +46,8 @@ Where
 **cashDir** is the directory to store temp files
 **testclass** is the class of testcase
 
-**For example**, now that we have some images in data/vggface2/ORIG. We can first test the FaceDetection app to see how much branch coverage we can get from these data:
+### Example 
+now that we have some images in data/vggface2/ORIG. We can first test the FaceDetection app to see how much branch coverage we can get from these data:
 ```
 bash helpers/fuzz.sh tf testFaceDetection ./data/vggface2/ORIG ./face_test_results $(pwd)/results/instrumentation edu.ucla.cs.FaceTest
 ```
