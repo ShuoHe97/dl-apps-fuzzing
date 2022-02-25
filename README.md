@@ -40,11 +40,17 @@ bash helpers/fuzz.sh \$engine \$method \$in \$out \$cacheDir \$testclass
 ```
 Where 
 **engine**: type "tf" for our customized guidance.
+
 **method** is the test method we want to run. 
+
 **in** is the directory that consists of test input images.
+
 **out** is the directory that we want the results to be stored
+
 **cashDir** is the directory to store temp files
+
 **testclass** is the class of testcase
+
 
 ### Example 
 now that we have some images in data/vggface2/ORIG. We can first test the FaceDetection app to see how much branch coverage we can get from these data:
