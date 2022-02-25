@@ -1,5 +1,0 @@
-class,method,iid,line,true,false,inference
-net/tzolov/cv/cropper/SmartCropper,scan,174,174,0,61,.:-1
-net/tzolov/cv/cropper/SmartCropper,cropImage,78,78,0,61,.:-1
-net/tzolov/cv/cropper/SmartCropper,scan,178,178,61,0,.:-1
-net/tzolov/cv/cropper/Utils,threeByteBGRToMat,89,89,0,61,.:-1
