@@ -94,4 +94,4 @@ This will produce results containing post-inference coverage info, stored in ./f
 
 ## Author
 
-[Usama Hameed}(https://github.com/usama54321), [Shuo He](https://github.com/ShuoHe97)
+[Usama Hameed](https://github.com/usama54321), [Shuo He](https://github.com/ShuoHe97)
