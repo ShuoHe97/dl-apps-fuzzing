@@ -31,27 +31,25 @@ Tested on Ubuntu 18.04.
 
 
 ## Example Run
+The logic is that we first run testing to get the corpus of all test inputs that lead to coverage increase, as well as recording the overall branch coverage.
 
-The test driver is inside the /dl-fuzzing directory. You can use any image data. For now lets use some data [here](https://github.com/ShuoHe97/data):
-```
-cd dl-fuzzing
-git clone https://github.com/ShuoHe97/data.git
-unzip data/vggface2/ORIG.zip -d data/vggface2/ORIG
-```
+After that, we run reproduction test on the saved corpus to get post-inference coverage.
 
-now that we have some images in data/vggface2/ORIG. We can first test the FaceDetection app to see how much branch coverage we can get from these data:
+The test scripts that run the tests are helpers/fuzz.sh and helpers/repro.sh. Detail explanations are in both files. 
+
+We have some sample data in ./data directory. We can first test the FaceDetection app to see how much branch coverage we can get from these data:
 ```
-bash helpers/fuzz.sh tf testFaceDetection ./data/vggface2/ORIG ./face_test_results $(pwd)/results/instrumentation edu.ucla.cs.FaceTest
+bash helpers/fuzz.sh tf testFaceDetection ./data ./results $(pwd)/results/instrumentation edu.ucla.cs.FaceTest
 ```
-Results will be stored in the ./face_test_results directory. ./face_test_results/corpus contains the recorded input that leads to a coverage increase. They are used to reproduce the test to obtain post-inference coverage.
+Results will be stored in the ./results directory. ./results/corpus contains the recorded input that leads to a coverage increase. They are used to reproduce the test to obtain post-inference coverage.
 
 
 
-After we run the first testing script and obtained ./face_test_results/corpus, we can re-run the test to also get post-inference coverage using this command:
+After we run the first testing script and obtained ./results/corpus, we can re-run the test to also get post-inference coverage using this command:
 ```
-bash helpers/repro.sh ./results/face/ORIG/corpus tf ./face_test_results/repro testFaceDetection edu.ucla.cs.FaceTest
+bash helpers/repro.sh ./results/corpus tf ./results/repro testFaceDetection edu.ucla.cs.FaceTest
 ```
-This will produce results containing post-inference coverage info, stored in ./face_test_results/repro
+This will produce results containing post-inference coverage info, stored in ./results/repro
 
 
 
