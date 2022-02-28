@@ -1,7 +1,8 @@
 echo "usage bash fuzz.sh \$engine \$method \$in \$out \$cacheDir \$testclass "
 
 # Example:
-# bash helpers/fuzz.sh tf testFaceDetection ./data ./results $(pwd)/results/instrumentation edu.ucla.cs.FaceTest
+# bash helpers/fuzz.sh tf testFaceDetection ./data $(pwd)/results $(pwd)/temp/instrumentation edu.ucla.cs.FaceTest
+
 
 
 # Explain:
