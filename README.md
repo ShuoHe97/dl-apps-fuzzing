@@ -30,7 +30,7 @@ Tested on Ubuntu 18.04.
 
 
 
-## Example Run
+## Example of Running Tests
 The logic is that we first run testing to get the corpus of all test inputs that lead to coverage increase, as well as recording the overall branch coverage.
 
 After that, we run reproduction test on the saved corpus to get post-inference coverage.
