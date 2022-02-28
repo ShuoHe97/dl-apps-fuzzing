@@ -39,9 +39,9 @@ The test scripts that run the tests are helpers/fuzz.sh and helpers/repro.sh. De
 
 We have some sample data in ./data directory. We can first test the FaceDetection app to see how much branch coverage we can get from these data:
 ```
-bash helpers/fuzz.sh tf testFaceDetection ./data ./results $(pwd)/temp/instrumentation edu.ucla.cs.FaceTest
+bash helpers/fuzz.sh tf testFaceDetection ./data $(pwd)/results $(pwd)/temp/instrumentation edu.ucla.cs.FaceTest
 ```
-Results will be stored in the ./results directory. ./results/corpus contains the recorded input that leads to a coverage increase. They are used to reproduce the test to obtain post-inference coverage.
+Results will be stored in the $(pwd)/results directory. $(pwd)/results/corpus contains the recorded input that leads to a coverage increase. They are used to reproduce the test to obtain post-inference coverage.
 
 
 
