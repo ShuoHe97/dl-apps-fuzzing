@@ -1,0 +1,7 @@
+class,method,iid,line,true,false,inference
+edu/ucla/cs/FaceTest,<init>,24,24,1,42,.:-1
+net/tzolov/cv/mtcnn/MtcnnUtil,computeScalePyramid,78,78,295,43,.:-1
+net/tzolov/cv/mtcnn/MtcnnService,resize,572,572,43,0,.:-1
+net/tzolov/cv/mtcnn/MtcnnService,rawFaceDetection,215,215,43,0,.:-1
+net/tzolov/cv/mtcnn/MtcnnService,rawFaceDetection,214,214,43,0,.:-1
+net/tzolov/cv/mtcnn/MtcnnService,preparationStage,255,255,43,0,.:-1
